@@ -25,7 +25,7 @@ Sao eles:
         Sao formatos de determinado conteudo com suas caractesteriscas.
 
     -undefined
-        Sei la
+        São formatos de valor indefinido
 
 
 Como saber qual o tipo de dado está sendo trabalhado?
